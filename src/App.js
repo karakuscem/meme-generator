@@ -1,4 +1,5 @@
 import Header from "./Components/Header";
+import './Styles/styles.css'
 
 export default function App() {
   return (
