@@ -4,7 +4,7 @@ Simple meme generator to study react.
 
 ## Live
 
-[Click]()
+[Click](https://letsgeneratememes.netlify.app/)
 
 ### What's Learned
 
